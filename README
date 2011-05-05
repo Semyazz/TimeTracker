@@ -1,1 +1,8 @@
-This file was created by IntelliJ IDEA 10.0.2 for binding GitHub repository
+Simple Time Tracking tool, to help track wokring hours
+
+Planned functionality:
+    - time tracking (Start/Stop)
+    - widget for android mobile phone
+    - Tags for tracked hours
+    - Bar chart presentation on Android 2.2+ mobile phone
+    - Synchro with online server (in future mayby)
