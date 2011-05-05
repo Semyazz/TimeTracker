@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MyActivity</string>
+    <string name="app_name">TimeTracker</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="showChart">Pokaż diagram</string>
+
+    <string name="exit">wyjście</string>
+    <string name="pause">pauza</string>
+
+    <string name="month">miesiąc</string>
+    <string name="months">miesięcy</string>
+    <string name="year">rok</string>
+    <string name="years">lat</string>
+    <string name="day">dzień</string>
+    <string name="days">dni</string>
+    <string name="week">tydzień</string>
+    <string name="weeks">tygodni</string>
+    <string name="hour">godzina</string>
+    <string name="hours">godzin</string>
+    <string name="minute">minuta</string>
+    <string name="minutes">minut</string>
+
 </resources>
