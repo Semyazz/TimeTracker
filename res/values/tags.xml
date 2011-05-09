@@ -1,0 +1,9 @@
+<resources>
+
+    <string-array name="tagsNames">
+        <item>work</item>
+        <item>school</item>
+        <item>fun</item>
+    </string-array>
+
+</resources>

@@ -20,5 +20,8 @@
     <string name="hours">godzin</string>
     <string name="minute">minuta</string>
     <string name="minutes">minut</string>
+    <string name="hello">Ajo</string>
+    <string name="statistics">Statystyki</string>
+    <string name="tags">Tagi</string>
 
 </resources>
