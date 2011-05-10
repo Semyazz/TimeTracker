@@ -1,4 +1,4 @@
-package com.shinobi.example.timetracker.com.shinobi.example.timetracker.database;
+package com.shinobi.example.timetracker.database;
 
 import android.app.Activity;
 import android.os.Bundle;

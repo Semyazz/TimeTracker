@@ -23,5 +23,8 @@
     <string name="hello">Ajo</string>
     <string name="statistics">Statystyki</string>
     <string name="tags">Tagi</string>
+    <string name="dodajTag">Dodaj tag</string>
+    <string name="usun">Usuń</string>
+    <string name="editTags">Edytuj tagi</string>
 
 </resources>

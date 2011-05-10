@@ -1,4 +1,4 @@
-package com.shinobi.example.timetracker.com.shinobi.example.timetracker.database;
+package com.shinobi.example.timetracker.database;
 
 /**
  * Created by IntelliJ IDEA.
@@ -9,8 +9,8 @@ package com.shinobi.example.timetracker.com.shinobi.example.timetracker.database
  */
 public class TimerResult {
 
-    private String startTime;
-    private String stopTime;
+    private long startTime;
+    private long stopTime;
     private String tag;
     private String diff;
 
@@ -18,19 +18,19 @@ public class TimerResult {
         this.tag = tag;
     }
 
-    public String getStartTime() {
+    public long getStartTime() {
         return startTime;
     }
 
-    public void setStartTime(String startTime) {
+    public void setStartTime(long startTime) {
         this.startTime = startTime;
     }
 
-    public String getStopTime() {
+    public long getStopTime() {
         return stopTime;
     }
 
-    public void setStopTime(String stopTime) {
+    public void setStopTime(long stopTime) {
         this.stopTime = stopTime;
     }
 
