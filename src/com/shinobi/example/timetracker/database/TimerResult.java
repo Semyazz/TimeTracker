@@ -34,4 +34,15 @@ public class TimerResult {
         this.stopTime = stopTime;
     }
 
+    public String getTag() {
+        return tag;
+    }
+
+    public void setTag(String tag) {
+        this.tag = tag;
+    }
+
+    public String getDiff() {
+        return diff;
+    }
 }
