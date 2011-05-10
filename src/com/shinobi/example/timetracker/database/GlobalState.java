@@ -29,25 +29,29 @@ public class GlobalState extends Application {
         if (this.currentTimer == null) {
             throw new NullPointerException("Current Timer null");
         }
+
         this.currentTimer.setStopTime(stop);
 
-        //TODO: zapisac do bazy danych wynik;
         SaveResult(currentTimer);
 
         return currentTimer;
     }
 
     private void SaveResult(TimerResult result) {
-        //TODO: dodać wynik do bazy danych do SQLite
 
+        //TODO:
+        //TimeResultProvider.AddTimerResult(, result);
     }
 
     public void AddTag(String tag) {
-        //TODO: dodać do bazy danych SQLite
+
+        //TODO:
+        //TagsProvider.AddTag(, tag);
     }
 
     public void RemoveTag(String tag) {
-        //TODO: usuniecie taga z bazy danych
+        //TODO:
+        //TagsProvider.RemoveTag(, tag);
     }
 
     public String CurrentTag() {
